@@ -1,3 +1,5 @@
+Adding text above the header
+
 # "Assignment 0"
 
 I am adding text below my header
