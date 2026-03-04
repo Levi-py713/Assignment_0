@@ -2,6 +2,8 @@ Adding text above the header
 
 # "Assignment 0"
 
+I am adding text below my header
+
 **Did you know that the theoretical highest word score is 1,778 points?**
 
 *Is there a way to publish websites for free?*

@@ -1,3 +1,4 @@
+I am adding different text this time
 Adding text above feature.txt
 
 Adding text to this file
