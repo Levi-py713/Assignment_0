@@ -1,3 +1,5 @@
+Adding text above the header
+
 # "Assignment 0"
 
 **Did you know that the theoretical highest word score is 1,778 points?**
